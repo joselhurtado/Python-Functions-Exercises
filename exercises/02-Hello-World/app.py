@@ -1,1 +1,3 @@
-# your code here
+# Code Already Compiled
+
+print("Hello World")
